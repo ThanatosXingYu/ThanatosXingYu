@@ -39,6 +39,7 @@ class Student:
         self.name = "Thanatos"
         self.role = "Student"
         self.interest="Cyber Security"
+        self.blog="blog.luckysix.cc"
         self.language_spoken = ["zh_CN", "en_US"]
 
     def say_hi(self):
